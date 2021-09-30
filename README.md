@@ -80,4 +80,4 @@
 ---
 
 
-![Ananth's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksananth&theme=vue) ![Ananth's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=ksananth&show_icons=true&line_height=21&show_icons=true&theme=vue)
+![Ananth's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksananth&theme=vue) 
